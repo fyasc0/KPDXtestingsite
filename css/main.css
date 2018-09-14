@@ -6,6 +6,7 @@ body {
 }
 
 nav {
+    height: 50px;
     background-color: #000000;
     overflow: hidden;
     float: top;
