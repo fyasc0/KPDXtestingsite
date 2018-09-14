@@ -2,6 +2,7 @@ body {
     background-image: url("/KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
 }
 
 nav ul, footer ul {
