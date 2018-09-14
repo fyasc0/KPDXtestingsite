@@ -1,5 +1,5 @@
 body {
-    background-image:("KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
+    background-image: url("KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
     background-position: center center;
     background-repeat:no-repeat;
     background-size: cover;
