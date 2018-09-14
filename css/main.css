@@ -1,13 +1,8 @@
-html {
+body {
     background-image:("KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
     background-position: center center;
     background-repeat:no-repeat;
     background-size: cover;
-}
-
-body {
-    margin: 60px auto;
-    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
