@@ -2,7 +2,7 @@ html {
     background-image:("files/images/kpdx_background_1.png");
     background-position: center center;
     background-repeat:no-repeat;
-    backgroundsize: cover;
+    background-size: cover;
 }
 
 body {
