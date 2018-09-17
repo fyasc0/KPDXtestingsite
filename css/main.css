@@ -128,14 +128,12 @@ footer {
 section {
     display: flex;
     float: center;
-    left: 200px;
-    right: 200px;
-    width: 500px;
+    width: 600px;
     text-align: center;
 }
 
 social {
     flex: 1;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
 }
