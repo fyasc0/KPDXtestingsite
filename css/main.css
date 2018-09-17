@@ -128,12 +128,9 @@ footer {
 section {
     display: flex;
     justify-content: center;
-    float: center;
-    text-align: center;
 }
 
 social {
-    flex: 1;
     text-align: center;
     padding: 20px;
     width: 100px;
