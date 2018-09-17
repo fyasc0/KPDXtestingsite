@@ -148,4 +148,6 @@ social {
 
 .calendar iframe {
     text-align: center;
+    float: center;
+    padding: 50px;
 }
