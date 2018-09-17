@@ -143,6 +143,7 @@ social {
     position: relative;
     left: 0px;
     right: 0px;
+    text-align: center;
     background-color: rgb(0,0,0,0.6);
 }
 
