@@ -19,7 +19,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 
-nav ul li:first-child { float:left; }
+nav ul li:first-child { float:left; margin:5px; }
 
 nav ul li, footer ul li {
     display: inline;
