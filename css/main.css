@@ -111,8 +111,8 @@ footer {
     width: 100%;
     height: auto;
     position: relative;
-    left: 0px;
-    right: 0px;
+    left: 100px;
+    right: 100px;
 }
 
 .contact img {
@@ -130,5 +130,5 @@ section {
 social {
     flex: 1;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
