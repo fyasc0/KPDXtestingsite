@@ -27,7 +27,7 @@ nav ul li:first-child {
 }
 
 nav ul li, footer ul li {
-    font-size: 1.3em;
+    font-size: 1.1em;
     display: inline;
     padding: 10px;
     margin: 10px;
@@ -40,7 +40,7 @@ a {
     transition: text-shadow .3s;
 }
 a:hover {
-    text-shadow: 0 0 .65px #f44242, 0 0 .65px #f44242;
+    text-shadow: 0 0 .8px #f44242, 0 0 .8px #f44242;
 }
 h1 {
     font-size: 1.5em;
@@ -94,7 +94,7 @@ footer {
 
 .about {
     width: 100%;
-    height: 300px;
+    height: auto;
     position: absolute;
     left: 0px;
     right: 0px;
@@ -103,7 +103,6 @@ footer {
 
 .about p {
     text-align: center;
-    padding: 50px 200px;
-    width: 400px;
+    padding: 50px 300px;
     overflow: hidden;
 }
