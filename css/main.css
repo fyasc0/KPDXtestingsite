@@ -47,7 +47,7 @@ h1 {
     color: #ffffff;
 }
 p {
-    font-size: 1.3em;
+    font-size: 1.1em;
     line-height: 1.4em;
     color: #ffffff;
     opacity: 1.0;
@@ -105,4 +105,26 @@ footer {
     text-align: center;
     padding: 30px 300px;
     overflow: hidden;
+}
+
+.contact {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+
+.contact img {
+    width: 100px;
+    height: 100px;
+    float: center;
+}
+
+section {
+    display: flex;
+}
+
+box {
+    flex: 1;
 }
