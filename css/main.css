@@ -118,15 +118,17 @@ footer {
 .contact img {
     width: 100px;
     height: 100px;
-    float: center;
+    text-align: center;
 }
 
 section {
     display: flex;
     float: center;
+    text-align: center;
 }
 
-box {
+social {
     flex: 1;
     text-align: center;
+    padding: 10px;
 }
