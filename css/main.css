@@ -127,6 +127,7 @@ footer {
 
 section {
     display: flex;
+    justify-content: center;
     float: center;
     text-align: center;
 }
