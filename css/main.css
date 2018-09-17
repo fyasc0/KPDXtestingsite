@@ -6,9 +6,8 @@ body {
 }
 
 nav {
-    height: 50px;
+    height: 70px;
     background-color: #000000;
-    overflow: hidden;
     float: top;
     opacity: 0.6;
 }
@@ -19,9 +18,13 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+
+nav ul li:first-child { float:left; }
+
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin: 20px;
+    float: right;
 }
 a {
     text-decoration: none;
