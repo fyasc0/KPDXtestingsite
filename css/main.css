@@ -13,6 +13,7 @@ nav {
     right: 0px;
     height: 90px;
     background-color: rgba(0,0,0,0.6);
+    overflow: hidden;
 }
 
 nav ul, footer ul {
@@ -102,5 +103,6 @@ footer {
 
 .about p {
     text-align: center;
-    padding: 50px 50px;
+    padding: 50px 100px;
+    overflow: auto;
 }
