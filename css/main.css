@@ -22,12 +22,11 @@ nav ul, footer ul {
     font-weight: bold;
 }
 
-nav ul li:first-child { float:left; position: absolute; margin: 5px;}
+nav ul li:first-child { float:left; padding: 3px 3px;}
 
 nav ul li, footer ul li {
     display: inline;
-    position: absolute;
-    margin: 10px;
+    padding: 10px 10px;
     float: right;
 }
 a {
@@ -63,8 +62,16 @@ footer {
 }
 
 .home h1 {
-    text-align: center;
-    position: relative;
+    border-radius: 1em;
+    padding: 8em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    height: auto;
+    width: auto;
 }
 
 .home img {
