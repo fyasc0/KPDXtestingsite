@@ -17,7 +17,6 @@ nav {
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
 
@@ -42,12 +41,10 @@ a:hover {
 }
 h1 {
     font-size: 1.5em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: #ffffff;
 }
 p {
-    font-size: 1em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #ffffff;
     opacity: 1.0;
@@ -64,7 +61,6 @@ footer {
     left: 0px;
     top: 0px;
     z-index: -1;
-    background-color: #333;
 }
 
 .home h1 {
