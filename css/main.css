@@ -41,11 +41,12 @@ a:hover {
     font-weight: bold;
 }
 h1 {
-    font-size: 2em;
+    font-size: 1.5em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: #ffffff;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #ffffff;
@@ -103,6 +104,6 @@ footer {
 
 .about p {
     text-align: center;
-    padding: 50px 100px;
-    overflow: auto;
+    padding: 50px 200px;
+    overflow: hidden;
 }
