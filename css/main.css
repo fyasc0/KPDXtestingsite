@@ -50,3 +50,18 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+
+.home {
+    width: 100%;
+    height: 100vh;
+}
+
+.home img {
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
