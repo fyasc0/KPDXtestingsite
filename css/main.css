@@ -61,6 +61,11 @@ footer {
     background-color: #333;
 }
 
+.home h1 {
+    text-align: center;
+    padding: 500px 0px;
+}
+
 .home img {
     border-radius: 1em;
     padding: 1em;
@@ -82,7 +87,7 @@ footer {
     opacity: 0.6;
 }
 
-.about h1 {
+.about p {
     text-align: center;
-    padding: 300px 0;
+    padding: 50px 50px;
 }
