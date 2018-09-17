@@ -42,7 +42,8 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #ffffff;
+    opacity: 1.0;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -69,4 +70,12 @@ footer {
     max-width: 30%;
     height: auto/4;
     width: auto/4;
+}
+
+.about {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    background-color: #000000;
+    opacity: 0.6;
 }
