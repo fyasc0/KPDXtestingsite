@@ -50,7 +50,7 @@ footer {
 }
 
 .home {
-    width: 20%;
+    width: 100%;
     height: 100vh;
     position: fixed;
     left: 0px;
@@ -67,7 +67,7 @@ footer {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-    max-width: 80%;
+    max-width: 20%;
     height: auto;
     width: auto;
 }
