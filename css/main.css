@@ -101,7 +101,7 @@ footer {
     background-color: rgba(0,0,0,0.6);
 }
 
-.about p {
+.about p,h1 {
     text-align: center;
     padding: 30px 300px;
     overflow: hidden;
@@ -111,13 +111,17 @@ footer {
     width: 100%;
     height: auto;
     position: relative;
-    left: 100px;
-    right: 100px;
+    left: 200px;
+    right: 200px;
 }
 
 .contact img {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+
+.contact h1 {
     text-align: center;
 }
 
@@ -130,5 +134,5 @@ section {
 social {
     flex: 1;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
