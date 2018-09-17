@@ -27,6 +27,7 @@ nav ul li:first-child {
 }
 
 nav ul li, footer ul li {
+    font-size: 1.3em;
     display: inline;
     padding: 10px;
     margin: 10px;
@@ -35,16 +36,18 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #f44242;
+    letter-spacing: .1em;
+    transition: text-shadow .3s;
 }
 a:hover {
-    font-weight: bold;
+    text-shadow: 0 0 .65px #f44242, 0 0 .65px #f44242;
 }
 h1 {
     font-size: 1.5em;
     color: #ffffff;
 }
 p {
-    font-size: 1.2em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #ffffff;
     opacity: 1.0;
@@ -101,5 +104,6 @@ footer {
 .about p {
     text-align: center;
     padding: 50px 200px;
+    width: 400px;
     overflow: hidden;
 }
