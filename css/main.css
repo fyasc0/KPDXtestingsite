@@ -1,3 +1,8 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
 body {
     background-image: url("/KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
     background-size: cover;
@@ -107,12 +112,8 @@ footer {
 }
 
 .about {
-    width: 100vw;
+    width: 100%;
     position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
     height: auto;
