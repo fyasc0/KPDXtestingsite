@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 
-nav {
+.nav {
     position: fixed;
     width: 100%;
     left: 0px;
@@ -24,22 +24,22 @@ nav {
     transition: all 0.6s ease-out;
 }
 
-nav.scrolled {
+.nav.scrolled {
     background: rgb(0, 0, 0); /* IE */
     background: rgb(0, 0, 0, 1.0); /* NON-IE */
 }
 
-nav ul, footer ul {
+.nav ul, footer ul {
     list-style: none;
 }
 
-nav ul li:first-child { 
+.nav ul li:first-child { 
     float:left; 
     margin: 0px;
     padding: 0px 0px;
 }
 
-nav ul li, footer ul li {
+.nav ul li, footer ul li {
     font-size: 1.1em;
     display: inline;
     padding: 10px;
