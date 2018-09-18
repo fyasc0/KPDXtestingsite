@@ -112,8 +112,7 @@ footer {
     border-bottom: 1px solid #d5d5d5;
     height: auto;
     position: relative;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin: 0;
     background-color: rgb(64,64,64);
 }
 
