@@ -62,8 +62,8 @@ img {
 }
 
 .fadeIn {
-    -webkit-animation: animat_show 0.8s;
-    animation: animat_show 0.8s;
+    -webkit-animation: animat_show 1s;
+    animation: animat_show 1s;
     visibility: visible !important;
 }
 
