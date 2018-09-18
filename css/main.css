@@ -1,10 +1,5 @@
-html {
-    padding: 0;
-    margin: 0;
-}
-
 body {
-    background-image: url("/KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
+    background-image: url("files/images/kpdx_background_1.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -200,7 +195,7 @@ social {
 
 .conduct p {
     text-align: center;
-    padding: 0px 350px;
+    padding: 20px 350px;
     overflow: hidden;
 }
     
