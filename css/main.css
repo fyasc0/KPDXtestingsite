@@ -4,11 +4,13 @@ body {
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: fixed;
+    padding: 0;
+    margin; 0;
 }
 
 nav {
     position: fixed;
-    width: calc(100vw - (100vw - 100%));
+    width: 100%;
     left: 0px;
     top: 0px;
     height: 90px;
@@ -55,11 +57,11 @@ p {
     opacity: 1.0;
 }
 footer {
-    position: absolute;
+    position: relative;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     height: auto;
-    width: calc(100vw - (100vw - 100%));
+    width: 100%;
     left: 0px;
     bottom: 0px;
     background-color: #000000;
@@ -105,7 +107,7 @@ footer {
 }
 
 .about {
-    width: 98vw;
+    width: 100%;
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
     height: auto;
@@ -174,7 +176,7 @@ social {
 }
 
 .conduct {
-    width: calc(100vw - (100vw - 100%));
+    width: 100%;
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
     height: auto;
