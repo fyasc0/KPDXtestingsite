@@ -61,7 +61,7 @@ footer {
     color: #ffffff;
     text-align: center;
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
 }
 
 .home {
@@ -178,7 +178,7 @@ social {
 #disclaimer {
     text-align: center;
     padding: 20px;
-    width: 450px;
+    width: 600px;
 }
 
 #disclaimer:after {
@@ -187,6 +187,7 @@ social {
     width: 1px;
     height: 150px;
     top: 50%;
+    display: block;
 }
 
 #questions {
