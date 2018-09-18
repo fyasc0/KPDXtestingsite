@@ -57,7 +57,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     height: auto;
-    background-color: #333333;
+    background-color: #666666;
     color: #ffffff;
     text-align: center;
 }
@@ -175,12 +175,12 @@ social {
     
 #disclaimer {
     float: left;
-    width: 200px;
+    width: 400px;
 }
 
 #disclaimer:after {
     content: "";
-    background-color: #000;
+    background-color: #ffffff;
     position: absolute;
     width: 3px;
     height: 100px;
