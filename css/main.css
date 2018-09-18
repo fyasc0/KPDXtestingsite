@@ -74,6 +74,7 @@ footer {
     top: 75%;
     left: 50%;
     margin-right: -50%;
+    text-shadow: 2px 2px 4px #000000;
     transform: translate(-50%, -50%);
     max-width: 100%;
     height: auto;
