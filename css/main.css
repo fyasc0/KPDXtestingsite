@@ -114,6 +114,19 @@ footer {
     overflow: hidden;
 }
 
+.about img {
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    max-width: 30%;
+    height: auto/4;
+    width: auto/4;
+}
+
 .contact {
     width: 100%;
     height: auto;
