@@ -115,9 +115,7 @@ footer {
 }
 
 .about img {
-    display: block;
-    left: auto;
-    right: auto;
+    margin: auto;
     max-width: 45%;
     height: auto/4;
     width: auto/4;
