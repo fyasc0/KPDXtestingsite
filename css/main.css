@@ -57,8 +57,10 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     height: auto;
-    background: #666666;
+    background-color: #666666;
     color: #ffffff;
+    display: flex;
+    justify-content: space-between;
 }
 
 .home {
