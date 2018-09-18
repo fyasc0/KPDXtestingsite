@@ -154,3 +154,18 @@ social {
     margin-right: auto;
     padding: 50px;
 }
+
+.conduct {
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 0px;
+    right: 0px;
+}
+
+.conduct p {
+    text-align: center;
+    padding: 30px 350px;
+    overflow: hidden;
+}
+    
