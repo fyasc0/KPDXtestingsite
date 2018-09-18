@@ -55,7 +55,7 @@ p {
     opacity: 1.0;
 }
 footer {
-    position: fixed;
+    position: absolute;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     height: auto;
