@@ -184,11 +184,9 @@ social {
 #disclaimer:after {
     content: "";
     background-color: #ffffff;
-    width: 3px;
-    height: 100px;
-    top: 10px;
-    left: 50%;
-    display: block;
+    width: 1px;
+    height: 150px;
+    top: 50%;
 }
 
 #questions {
