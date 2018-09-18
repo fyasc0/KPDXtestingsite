@@ -56,6 +56,10 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    height: auto;
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
 }
 
 .home {
@@ -169,3 +173,23 @@ social {
     overflow: hidden;
 }
     
+#disclaimer {
+    float: left;
+    width: 200px;
+}
+
+#disclaimer:after {
+    content: "";
+    background-color: #000;
+    position: absolute;
+    width: 3px;
+    height: 100px;
+    top: 10px;
+    left: 50%;
+    display: block;
+}
+
+#questions {
+    width: 200px;
+    float: right;
+}
