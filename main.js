@@ -1,4 +1,4 @@
-    function showImages(el) {
+    window.onload = function showImages(el) {
         var windowHeight = jQuery( window ).height();
         $(el).each(function(){
             var thisPos = $(this).offset().top;
