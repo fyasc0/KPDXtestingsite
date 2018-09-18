@@ -60,6 +60,8 @@ footer {
     background-color: #666666;
     color: #ffffff;
     text-align: center;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .home {
@@ -174,14 +176,14 @@ social {
 }
     
 #disclaimer {
-    float: left;
-    width: 400px;
+    text-align: center;
+    padding: 20px;
+    width: 450px;
 }
 
 #disclaimer:after {
     content: "";
     background-color: #ffffff;
-    position: absolute;
     width: 3px;
     height: 100px;
     top: 10px;
@@ -190,6 +192,7 @@ social {
 }
 
 #questions {
+    text-align: center;
+    padding: 20px;
     width: 200px;
-    float: right;
 }
