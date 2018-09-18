@@ -26,7 +26,7 @@ body {
 
 .nav.scrolled {
     background: rgb(0, 0, 0); /* IE */
-    background: rgb(0, 0, 0, 1.0); /* NON-IE */
+    background: rgba(0, 0, 0, 1.0); /* NON-IE */
 }
 
 .nav ul, footer ul {
