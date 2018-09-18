@@ -13,6 +13,7 @@ nav {
     right: 0px;
     top: 0px;
     height: 90px;
+    z-index: 1;
     background-color: rgba(0,0,0,0.6);
     overflow: hidden;
 }
