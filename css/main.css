@@ -10,7 +10,6 @@ nav {
     position: fixed;
     width: 100vw;
     left: 0px;
-    right: 0px;
     top: 0px;
     height: 90px;
     z-index: 1;
@@ -61,7 +60,6 @@ footer {
     height: auto;
     width: 100vw;
     left: 0px;
-    right: 0px;
     bottom: 0px;
     background-color: #000000;
     color: #ffffff;
@@ -136,7 +134,6 @@ footer {
     height: auto;
     position: relative;
     left: 0px;
-    right: 0px;
 }
 
 .contact img {
@@ -165,7 +162,6 @@ social {
     height: auto;
     position: relative;
     left: 0px;
-    right: 0px;
     text-align: center;
 }
 
@@ -183,7 +179,6 @@ social {
     height: auto;
     position: relative;
     left: 0px;
-    right: 0px;
     background-color: rgb(64,64,64);
 }
 
