@@ -9,7 +9,7 @@ body {
 nav {
     position: fixed;
     width: 100vw;
-    left: -10px;
+    left: 0px;
     right: 0px;
     top: 0px;
     height: 90px;
@@ -60,7 +60,7 @@ footer {
     font-size: .8em;
     height: auto;
     width: 100vw;
-    left: -10px;
+    left: 0px;
     right: 0px;
     bottom: 0px;
     background-color: #000000;
@@ -111,7 +111,7 @@ footer {
     border-bottom: 1px solid #d5d5d5;
     height: auto;
     position: relative;
-    left: -10px;
+    left: 0px;
     right: 0px;
     background-color: rgb(64,64,64);
 }
@@ -182,7 +182,7 @@ social {
     border-bottom: 1px solid #d5d5d5;
     height: auto;
     position: relative;
-    left: -10px;
+    left: 0px;
     right: 0px;
     background-color: rgb(64,64,64);
 }
