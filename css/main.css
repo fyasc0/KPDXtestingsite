@@ -115,9 +115,10 @@ footer {
 }
 
 .about img {
+    display: block;
     left: auto;
     right: auto;
-    max-width: 50%;
+    max-width: 45%;
     height: auto/4;
     width: auto/4;
 }
