@@ -7,8 +7,8 @@ body {
 }
 
 nav {
-    position: relative;
-    width: 100%;
+    position: fixed;
+    width: calc(100vw - (100vw - 100%));
     left: 0px;
     top: 0px;
     height: 90px;
@@ -58,7 +58,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     height: auto;
-    width: 100%;
+    width: calc(100vw - (100vw - 100%));
     left: 0px;
     bottom: 0px;
     background-color: #000000;
@@ -104,7 +104,7 @@ footer {
 }
 
 .about {
-    width: 100%;
+    width: calc(100vw - (100vw - 100%));
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
     height: auto;
@@ -173,7 +173,7 @@ social {
 }
 
 .conduct {
-    width: 100%;
+    width: calc(100vw - (100vw - 100%));
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
     height: auto;
