@@ -107,7 +107,7 @@ footer {
 }
 
 .about {
-    width: calc(100vw-(100vw-100%));
+    width: 100vw;
     position: relative;
     left: 50%;
     right: 50%;
@@ -116,6 +116,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
     height: auto;
+    overflow: hidden;
     background-color: rgb(64,64,64);
 }
 
