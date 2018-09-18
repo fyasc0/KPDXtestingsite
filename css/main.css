@@ -100,7 +100,9 @@ footer {
 }
 
 .about {
-    width: 100%;
+    width: 100vh;
+    border-top: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
     height: auto;
     position: relative;
     left: 0px;
