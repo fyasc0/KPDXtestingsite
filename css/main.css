@@ -17,6 +17,7 @@ body {
     z-index: 1;
     background-color: rgba(0,0,0,0.6);
     transition: 0.8s;
+    overflow: hidden;
 }
 
 .scrolled {
@@ -162,7 +163,7 @@ footer {
 }
 
 .contact img {
-    width: 20%;
+    width: 30%;
     text-align: center;
 }
 
@@ -191,7 +192,6 @@ social {
 
 .calendar iframe {
     width: 75%;
-    height: auto;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
