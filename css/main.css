@@ -128,7 +128,7 @@ footer {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-    max-width: 30%;
+    max-width: 70%;
     height: auto/4;
     width: auto/4;
 }
