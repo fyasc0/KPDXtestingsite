@@ -63,8 +63,6 @@ p {
     line-height: 1.4em;
     color: #ffffff;
     font-family: Didot, serif;
-    text-align: justify;
-    text-justify: auto;
 }
 
 .fade {
@@ -141,8 +139,8 @@ footer {
     background-color: rgb(64,64,64);
 }
 
-.about p,h1 {
-    text-align: center;
+.about p {
+    text-align: justify;
     padding: 30px 350px;
     overflow: hidden;
 }
