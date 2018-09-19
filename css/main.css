@@ -142,7 +142,7 @@ footer {
 
 .about p {
     text-align: justify;
-    padding: 30px 15%;
+    padding: 30px 18%;
     overflow: hidden;
 }
 
@@ -191,7 +191,7 @@ social {
 }
 
 .calendar iframe {
-    width: 75%;
+    width: 65%;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
@@ -218,7 +218,7 @@ social {
 
 .conduct p {
     text-align: justify;
-    padding: 20px 15%;
+    padding: 20px 18%;
     overflow: hidden;
 }
     
