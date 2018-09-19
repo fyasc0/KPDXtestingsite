@@ -195,7 +195,7 @@ social {
     text-align: center;
 }
 
-.calsize {
+.calendar iframe {
     width: 63%;
     margin-left: auto;
     margin-right: auto;
