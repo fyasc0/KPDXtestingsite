@@ -40,6 +40,7 @@ body {
 
 .nav ul, footer ul {
     list-style: none;
+    left: 0;
 }
 
 .nav ul li:first-child { 
@@ -60,7 +61,6 @@ body {
     .nav ul li {
         float: center;
         margin: auto;
-        padding: 1%;
     }
 }
 
