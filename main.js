@@ -36,3 +36,6 @@ $(function() {
     });
   
 });
+
+var cw = $('.calendar iframe').width();
+$('.calendar iframe').css({'height':cw+'px'});
