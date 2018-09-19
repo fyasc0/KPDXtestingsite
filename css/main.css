@@ -70,7 +70,7 @@ body {
 
 @media only screen and (max-width: 800px) {
     .nav img {
-        float: left;
+        transform: translate(-4%,0);
     }
 }
 
