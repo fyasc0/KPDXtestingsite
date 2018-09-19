@@ -23,6 +23,7 @@ body {
     position: fixed;
     width: 100%;
     max-width: 100%;
+    right: 0px;
     left: 0px;
     top: 0px;
     height: auto;
