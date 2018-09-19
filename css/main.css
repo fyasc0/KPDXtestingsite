@@ -235,7 +235,7 @@ social {
     width: 200px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .conduct p {
         padding: 5px;
     }
