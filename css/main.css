@@ -47,12 +47,24 @@ body {
     padding: 0px 10px; 0px 0px;
 }
 
-.nav ul li, footer ul li {
+@media only screen and (max-width: 800px) {
+    .nav ul li:first-child {
+      float: center;
+    }
+}
+
+.nav ul li {
     font-size: 1.1em;
     display: inline;
     padding: 10px;
     margin: 10px;
     float: right;
+}
+
+@media only screen and (max-width: 800px) {
+    .nav ul li {
+        float: center;
+    }
 }
 
 .nav img {
@@ -145,6 +157,12 @@ footer {
     max-width: 70%;
 }
 
+@media only screen and (max-width: 800px) {
+    .home img {
+        max-width: 100%;
+    }
+}
+
 .about {
     width: 100%;
     position: relative;
@@ -159,6 +177,12 @@ footer {
     text-align: justify;
     padding: 1% 18%;
     overflow: hidden;
+}
+
+@media only screen and (max-width: 800px) {
+    .about p {
+        padding: 1%;
+    }
 }
 
 .about img {
@@ -250,6 +274,12 @@ social {
     text-align: justify;
     padding: 1% 18%;
     overflow: hidden;
+}
+
+@media only screen and (max-width: 800px) {
+    .conduct p {
+        padding: 1%;
+    }
 }
     
 #disclaimer {
