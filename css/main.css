@@ -191,10 +191,10 @@ social {
 }
 
 .calendar iframe {
-    width: 800px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding: 50px;
+    padding: 30px;
 }
 
 .conduct {
@@ -233,30 +233,4 @@ social {
     float: right;
     padding: 20px;
     width: 200px;
-}
-
-@media only screen and (max-width: 800px) {
-    .conduct p {
-        padding: 5px;
-    }
-    
-    .about p {
-        padding: 5px;
-    }
-    
-    .conduct img {
-        max-width: 30%;
-    }
-    
-    .home img {
-        max-width: 80%;
-    }
-    
-    .about img {
-        max-width: 80%;
-    }
-    
-    body {
-        background-color: #666666;
-    }
 }
