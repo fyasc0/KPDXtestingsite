@@ -37,5 +37,5 @@ $(function() {
   
 });
 
-var cw = $('.calendar iframe').width();
-$('.calendar iframe').css({'height':cw+'px'});
+var cw = $('.iframe').width();
+$('.iframe').css({'height':cw+'px'});
