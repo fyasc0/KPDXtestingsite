@@ -37,3 +37,5 @@ $(function() {
   
 });
 
+var cw = $('.iframe').width();
+$('.iframe').css({'height':cw+'px'});
