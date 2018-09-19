@@ -30,6 +30,7 @@ body {
     background-color: rgba(0,0,0,0.6);
     transition: 0.8s;
     overflow: hidden;
+    padding: 0;
 }
 
 .scrolled {
@@ -59,6 +60,7 @@ body {
     .nav ul li {
         float: center;
         margin: auto;
+        padding: 1%;
     }
 }
 
