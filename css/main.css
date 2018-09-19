@@ -6,9 +6,15 @@ body {
     -o-background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
-    position: fixed;
+    background-attachment: fixed;
     padding: 0;
     margin: 0;
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        background-attachment: initial;
+    }
 }
 
 .nav {
