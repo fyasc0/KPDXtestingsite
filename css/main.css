@@ -129,8 +129,8 @@ footer {
     margin-right: -50%;
     transform: translate(-50%, -50%);
     max-width: 70%;
-    height: auto/4;
-    width: auto/4;
+    height: auto/8;
+    width: auto/8;
 }
 
 .about {
