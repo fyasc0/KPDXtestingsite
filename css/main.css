@@ -49,7 +49,6 @@ body {
 
 @media only screen and (max-width: 800px) {
     .nav ul li:first-child {
-        position: absolute;
         margin: auto;
     }
 }
