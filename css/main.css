@@ -63,6 +63,8 @@ p {
     line-height: 1.4em;
     color: #ffffff;
     font-family: Didot, serif;
+    text-align: justify;
+    text-justify: auto;
 }
 
 .fade {
