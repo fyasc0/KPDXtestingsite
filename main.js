@@ -37,5 +37,5 @@ $(function() {
   
 });
 
-var cw = $('.iframe').width();
-$('.iframe').css({'height':cw+'px'});
+var cw = $('.calsize').width();
+$('.calsize').css({'height':cw+'px'});
