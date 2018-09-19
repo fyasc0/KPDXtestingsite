@@ -157,6 +157,7 @@ footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0;
     max-width: 90%;
     transform: scale(0.7);
 }
