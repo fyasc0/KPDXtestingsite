@@ -68,6 +68,12 @@ body {
     width: 100%;
 }
 
+@media only screen and (max-width: 800px) {
+    .nav img {
+        left: 0;
+    }
+}
+
 a {
     text-decoration: none;
     color: #f44242;
