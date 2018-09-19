@@ -207,10 +207,11 @@ social {
 
 .calendar .calscale {
     position: relative;
-    width: 25%;
-    padding-bottom: 25%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 63%;
+    padding-bottom: 63%;
+    left: 50%;
+    margin-right: 50%;
+    translate: (-50%,0);
     height: 0;
 }
 
