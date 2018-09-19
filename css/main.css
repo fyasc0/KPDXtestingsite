@@ -160,6 +160,7 @@ footer {
     height: auto;
     position: relative;
     left: 0px;
+    word-wrap: break-word;
 }
 
 .contact img {
@@ -194,7 +195,7 @@ social {
     width: 63%;
     margin-left: auto;
     margin-right: auto;
-    padding: 30px;
+    padding: 30px 30px 70% 30px;
 }
 
 .conduct {
@@ -234,4 +235,5 @@ social {
     float: right;
     padding: 20px;
     width: 20%;
+    word-wrap: break-word;
 }
