@@ -1,6 +1,10 @@
 body {
     background-image: url("/KPDXtestingsite.github.io/files/images/kpdx_background_1.png");
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: fixed;
