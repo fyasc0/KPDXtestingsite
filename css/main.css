@@ -234,3 +234,29 @@ social {
     padding: 20px;
     width: 200px;
 }
+
+@media only screen and (max-width: 600px) {
+    .conduct p {
+        padding: 5px;
+    }
+    
+    .about p {
+        padding: 5px;
+    }
+    
+    .conduct img {
+        max-width: 30%;
+    }
+    
+    .home img {
+        max-width: 80%;
+    }
+    
+    .about img {
+        max-width: 80%;
+    }
+    
+    body {
+        background-color: #666666;
+    }
+}
