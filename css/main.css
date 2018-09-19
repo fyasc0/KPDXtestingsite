@@ -47,12 +47,6 @@ body {
     padding: 0px 10px; 0px 0px;
 }
 
-@media only screen and (max-width: 800px) {
-    .nav ul li:first-child {
-        margin: auto;
-    }
-}
-
 .nav ul li {
     font-size: 1.1em;
     display: inline;
@@ -64,6 +58,7 @@ body {
 @media only screen and (max-width: 800px) {
     .nav ul li {
         float: center;
+        margin: auto;
     }
 }
 
