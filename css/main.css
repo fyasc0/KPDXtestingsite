@@ -135,10 +135,12 @@ footer {
     left: 0px;
     top: 0px;
     z-index: -1;
+    display: inline-block;
 }
 
-/* .home h1 {
-    border-radius: 1em;
+ .home h1 {
+    display: block;
+    /* border-radius: 1em;
     padding: 1em;
     position: absolute;
     top: 85%;
