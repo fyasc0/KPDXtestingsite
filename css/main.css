@@ -153,8 +153,10 @@ footer {
 }
 
 .home img {
-    margin: 50vh auto;
-    transform: scale(0.6);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
     position: relative;
     max-width: 60%;
     /*border-radius: 1em;
