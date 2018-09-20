@@ -160,7 +160,7 @@ footer {
     top: 50%;
     width: auto;
     height: auto;
-    transform: translate (0,-50%) scale(0.6);
+    transform: translate(0,-50%) scale(0.6);
     position: relative;
     max-width: 60%;
     padding: 0px;
