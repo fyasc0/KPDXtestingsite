@@ -135,12 +135,10 @@ footer {
     left: 0px;
     top: 0px;
     z-index: -1;
-    display: inline-block;
 }
 
  .home h1 {
-    display: block;
-    /* border-radius: 1em;
+    border-radius: 1em;
     padding: 1em;
     position: absolute;
     top: 85%;
@@ -150,7 +148,7 @@ footer {
     max-width: 100%;
     height: auto;
     width: auto;
-} */
+}
 
 .home img {
     border-radius: 1em;
