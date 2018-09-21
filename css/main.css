@@ -164,7 +164,7 @@ footer {
     position: relative;
     max-width: 60%;
     display: block;
-    align: middle;
+    align: absbottom;
     border: none;
     transform: scale(0.6);
     padding: 0;
