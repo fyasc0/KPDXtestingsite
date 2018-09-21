@@ -157,15 +157,14 @@ footer {
 .secret ul li {
     font-size: 1.1em;
     display: inline;
-    padding: 0px;
-    margin: 0px;
+    padding: 10px;
+    margin: 10px;
     float: right;
 }
 
 @media only screen and (max-width: 800px) {
     .secret ul li {
-        float: center;
-        margin: auto;
+        float: left;
     }
 }
 
