@@ -143,10 +143,39 @@ footer {
     padding: 0;
 }
 
-.secret img {
+.secret ul, footer ul {
+    list-style: none;
+}
+
+.secret ul li:first-child { 
+    float:left; 
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.secret ul li {
+    font-size: 1.1em;
+    display: inline;
     padding: 10px;
-    margin-bottom: 0px;
-    float: left;
+    margin: 10px;
+    float: right;
+}
+
+@media only screen and (max-width: 800px) {
+    .secret ul li {
+        float: center;
+        margin: auto;
+    }
+}
+
+.secret img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+    .secret img {
+        transform: translate(-4%,0);
+    }
 }
 
 .home {
