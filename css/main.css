@@ -157,7 +157,7 @@ footer {
 .secret ul li {
     font-size: 1.1em;
     display: inline;
-    padding: 10px;
+    padding-left: 10px;
     margin: 10px;
     float: right;
 }
