@@ -165,7 +165,7 @@ footer {
     width: 501px;
     height: 391px;
     position: relative;
-    max-width: 40%;
+    max-width: auto;
     max-height: 50vh;
     display: block;
     align: absbottom;
