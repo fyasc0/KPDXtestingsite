@@ -129,7 +129,6 @@ footer {
 }
 
 .secret {
-    opacity: 0;
     position: relative;
     width: 100%;
     max-width: 100%;
@@ -145,7 +144,6 @@ footer {
 }
 
 .secret img {
-    opacity: 0;
     padding: 10px;
     margin-bottom: 0px;
     float: left;
@@ -245,6 +243,14 @@ footer {
     height: 284px;
     max-width: 90%;
 }
+
+@media only screen and (max-width: 800px) {
+    .about img {
+        max-width: 95%;
+        max-height: auto;
+        height: auto;
+        width: 876px;
+    }
 
 .contact {
     width: 100%;
