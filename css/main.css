@@ -143,6 +143,7 @@ footer {
  .home h1 {
     position: relative;
     padding: 1em;
+    display: block;
     /*border-radius: 1em;
     padding: 1em;
     position: absolute;
