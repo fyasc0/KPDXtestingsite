@@ -146,8 +146,7 @@ footer {
 
 .secret img {
     display: hidden;
-    padding-top: 10px;
-    padding-bottom: 0px;
+    padding: 10px;
     margin-bottom: 0px;
     float: left;
 }
