@@ -184,7 +184,10 @@ footer {
 
 @media only screen and (max-width: 800px) {
     .home img {
-        max-width: 100%;
+        max-width: 95%;
+        max-height: auto;
+        height: auto;
+        width: 501px;
     }
 }
 
@@ -277,7 +280,7 @@ social {
     height: 98%;
     position: absolute;
     left: 0;
-    padding: 20px;
+    padding: 1%;
 }
 
 .conduct {
