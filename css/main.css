@@ -154,6 +154,7 @@ footer {
     position: relative;
     padding: 1em;
     display: block;
+    translate:(0,10%);
     /*border-radius: 1em;
     padding: 1em;
     position: absolute;
