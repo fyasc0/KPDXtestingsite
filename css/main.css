@@ -134,6 +134,7 @@ footer {
     position: relative;
     left: 0px;
     top: 0px;
+    padding-top: 10%;
     z-index: -1;
     display: flex;
     align-items: center;
