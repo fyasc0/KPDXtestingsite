@@ -129,6 +129,7 @@ footer {
 }
 
 .secret {
+    display: hidden;
     position: relative;
     width: 100%;
     max-width: 100%;
@@ -144,6 +145,7 @@ footer {
 }
 
 .secret img {
+    display: hidden;
     padding-top: 10px;
     padding-bottom: 0px;
     margin-bottom: 0px;
