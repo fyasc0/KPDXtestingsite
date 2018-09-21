@@ -162,7 +162,7 @@ footer {
 .home img {
     margin-left: auto;
     margin-right: auto;
-    width: 501px;
+    width: auto;
     height: 391px;
     position: relative;
     max-width: auto;
