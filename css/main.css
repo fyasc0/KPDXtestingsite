@@ -252,6 +252,7 @@ social {
     height: auto;
     position: relative;
     left: 0px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -276,7 +277,6 @@ social {
     position: absolute;
     left: 0;
     padding: 20px;
-    margin-bottom: 20px;
 }
 
 .conduct {
