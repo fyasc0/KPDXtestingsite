@@ -137,6 +137,7 @@ footer {
     z-index: -1;
     display: flex;
     align-items: center;
+    flex-direction: column;
 }
 
  .home h1 {
@@ -162,6 +163,7 @@ footer {
     position: relative;
     max-width: 60%;
     padding: 0px;
+    transform: scale(0.6);
     /*border-radius: 1em;
     padding: 1em;
     position: absolute;
