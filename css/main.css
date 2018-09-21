@@ -129,6 +129,7 @@ footer {
 }
 
 .secret {
+    opacity: 0;
     position: relative;
     width: 100%;
     max-width: 100%;
