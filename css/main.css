@@ -217,7 +217,6 @@ footer {
     width: 876px;
     height: 284px;
     max-width: 90%;
-    transform: scale(0.7);
 }
 
 .contact {
@@ -276,6 +275,7 @@ social {
     height: 98%;
     position: absolute;
     left: 0;
+    padding: 20px;
 }
 
 .conduct {
@@ -295,7 +295,6 @@ social {
     width: 179px;
     height: 179px;
     max-width: 95%;
-    transform: scale(0.8);
 }
 
 .conduct p {
