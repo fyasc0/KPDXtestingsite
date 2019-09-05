@@ -312,6 +312,10 @@ social {
     padding: 20px;
     width: 13%;
 }
+    
+social img {
+    width: 50%;   
+}
 
 .calendar {
     width: 100%;
