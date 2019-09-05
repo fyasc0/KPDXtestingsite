@@ -51,6 +51,9 @@ body {
     padding: 0px 0px 0px 0px;
 }
 
+.nav ul li:last-child {
+    padding: 0 0 0 10px;
+
 .nav ul li {
     font-size: 1.1em;
     display: inline;
@@ -80,7 +83,7 @@ a {
     text-decoration: none;
     color: #ffffff;
     font-family: Open Sans, sans-serif;
-    font-size: 0.8em;
+    font-size: 0.9em;
     letter-spacing: .1em;
     transition: text-shadow .3s;
 }
@@ -95,7 +98,7 @@ h1 {
     font-family: Open Sans, sans-serif;
 }
 p {
-    font-size: 1.2em;
+    font-size: 1.1em;
     line-height: 1.4em;
     color: #ffffff;
     font-family: Open Sans, sans-serif;
@@ -118,11 +121,12 @@ p {
 
 footer {
     position: relative;
-    font-size: .8em;
+    font-size: .9em;
     height: auto;
     width: 100%;
     left: 0px;
     bottom: 0px;
+    padding: 0 18%;
     background-color: #000000;
     color: #ffffff;
     display: flex;
