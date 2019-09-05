@@ -125,9 +125,10 @@ footer {
     font-size: .9em;
     height: auto;
     width: 100%;
+    max-width: 100%;
     left: 0px;
     bottom: 0px;
-    padding: 0 18%;
+    padding: 0 18px;
     background-color: #000000;
     color: #ffffff;
     display: flex;
@@ -312,10 +313,6 @@ social {
     text-align: center;
     padding: 20px;
     width: 13%;
-}
-    
-social img {
-    width: 50%;   
 }
 
 .calendar {
