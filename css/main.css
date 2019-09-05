@@ -20,6 +20,11 @@ body {
     }
 }
 
+.container {
+    width: 100%;
+    padding: 0 18%
+}
+
 .nav {
     position: fixed;
     width: 100%;
@@ -32,7 +37,7 @@ body {
     background-color: rgba(0,0,0,0.6);
     transition: 0.8s;
     overflow: hidden;
-    padding: 0 18%;
+    padding: 0;
 }
 
 .scrolled {
@@ -66,7 +71,7 @@ body {
 }
 
 .nav img {
-    width: 80%;
+    width: 60%;
 }
 
 @media only screen and (max-width: 800px) {
@@ -79,6 +84,7 @@ a {
     text-decoration: none;
     color: #ffffff;
     font-family: Trebuchet, sans-serif;
+    font-size: 1em;
     letter-spacing: .1em;
     transition: text-shadow .3s;
 }
@@ -91,10 +97,9 @@ h1 {
     text-align: center;
     text-shadow: 2px 2px 4px #000000;
     font-family: Trebuchet, sans-serif;
-    font-variant: small-caps;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #ffffff;
     font-family: Trebuchet, sans-serif;
