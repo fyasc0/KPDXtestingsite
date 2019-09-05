@@ -83,7 +83,7 @@ body {
 a {
     text-decoration: none;
     color: #ffffff;
-    font-family: 'Manjari', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 0.9em;
     letter-spacing: .1em;
     transition: text-shadow .3s;
@@ -96,13 +96,13 @@ h1 {
     color: #ffffff;
     text-align: center;
     text-shadow: 2px 2px 4px #000000;
-    font-family: 'Manjari', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 p {
     font-size: 1.1em;
     line-height: 1.4em;
     color: #ffffff;
-    font-family: 'Manjari', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .fade {
