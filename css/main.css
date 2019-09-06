@@ -295,7 +295,7 @@ footer {
 }
 
 .contact img {
-    width: 10%;
+    width: 18%;
     text-align: center;
 }
 
@@ -382,14 +382,14 @@ social {
 #disclaimer {
     text-align: justify;
     float: left;
-    padding: 20px;
+    padding: 1% 18%;
     width: 45%;
 }
 
 #questions {
     text-align: center;
     float: right;
-    padding: 20px;
+    padding: 1% 18%;
     width: 20%;
     word-wrap: break-word;
 }
