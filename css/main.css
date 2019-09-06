@@ -103,6 +103,7 @@ p {
     line-height: 1.4em;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
 .fade {
@@ -361,6 +362,10 @@ social {
     width: 179px;
     height: 179px;
     max-width: 95%;
+}
+
+.conduct h1 {
+    padding: 1% 0;
 }
 
 .conduct p {
