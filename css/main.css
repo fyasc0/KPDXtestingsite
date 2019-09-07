@@ -42,7 +42,7 @@ body {
 
 .nav ul, footer ul {
     list-style: none;
-    padding: 0 18%;
+    padding: 0 15%;
 }
 
 .nav ul li:first-child { 
@@ -52,14 +52,14 @@ body {
 }
 
 .nav ul li:last-child {
-    padding: 0;
+    padding: 0 0 0 0.5%;
 }
 
 .nav ul li {
-    font-size: 1em;
+    font-size: 5vw;
     display: inline;
-    padding: 0 10px;
-    margin: 0 10px;
+    padding: 0 0.5%;
+    margin: 0 0.5%;
     float: right;
 }
 
@@ -257,7 +257,7 @@ footer {
 
 .about p {
     text-align: center;
-    padding: 1% 18%;
+    padding: 1% 15%;
     overflow: hidden;
 }
 
@@ -369,7 +369,7 @@ social {
 
 .conduct p {
     text-align: center;
-    padding: 1% 18%;
+    padding: 1% 15%;
     overflow: hidden;
 }
 
