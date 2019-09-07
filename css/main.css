@@ -54,6 +54,7 @@ body {
 @media only screen and (max-width: 800px) {
     .nav ul li:first-child {
         opacity: 1;
+        float: center;
     }
 }
 
