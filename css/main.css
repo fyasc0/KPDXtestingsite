@@ -385,7 +385,7 @@ i {
 
 section {
     display: flex;
-    padding: 0 15%;
+    padding: 0;
     justify-content: center;
 }
 
