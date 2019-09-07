@@ -53,7 +53,7 @@ body {
 
 @media only screen and (max-width: 800px) {
     .nav ul li:first-child {
-        opacity: 100%;
+        opacity: 1;
     }
 }
 
