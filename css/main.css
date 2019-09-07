@@ -313,7 +313,7 @@ i {
 }
 .arrow {
   position: absolute;
-  bottom: 20%;
+  bottom: 0;
   left: 50%;
   margin-left: -20px;
   width: 40px;
