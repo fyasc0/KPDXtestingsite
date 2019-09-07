@@ -347,7 +347,7 @@ i {
     }
 }
 
-.about img {
+.about main {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -355,6 +355,11 @@ i {
     width: 876px;
     height: 284px;
     max-width: 90%;
+}
+
+.about ico {
+    width: 10%;
+    margin-left:auto;
 }
 
 @media only screen and (max-width: 800px) {
