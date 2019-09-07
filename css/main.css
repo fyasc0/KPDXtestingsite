@@ -392,7 +392,7 @@ section {
 social {
     text-align: center;
     padding: 20px;
-    width: 30%;
+    width: 45%;
 }
 
 .calendar {
@@ -478,4 +478,5 @@ social {
 
 #questions img {
     width: 58px;
+    display: inline;
 }
