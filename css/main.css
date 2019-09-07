@@ -42,13 +42,13 @@ body {
 
 .nav ul, footer ul {
     list-style: none;
-    padding: 0 15%;
+    padding: 0 15% 0 0;
 }
 
 .nav ul li:first-child { 
     float:left; 
     margin: 0px;
-    padding: 0px -15% 0px 0px;
+    padding: 0;
 }
 
 .nav ul li:last-child {
