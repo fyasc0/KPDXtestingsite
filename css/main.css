@@ -477,6 +477,8 @@ social {
 }
 
 #questions img {
-    width: 58px;
+    width: 20px;
     display: inline;
+    float: right;
+    padding: 0 0 0 5px;
 }
