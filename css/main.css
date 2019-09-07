@@ -42,7 +42,7 @@ body {
 
 .nav ul, footer ul {
     list-style: none;
-    padding: 0 18% 0 0;
+    padding: 0 18%;
 }
 
 .nav ul li:first-child { 
