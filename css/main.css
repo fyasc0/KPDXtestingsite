@@ -42,7 +42,7 @@ body {
 
 .nav ul, footer ul {
     list-style: none;
-    padding: 0 18%;
+    padding: 0 18% 0 0;
 }
 
 .nav ul li:first-child { 
@@ -52,11 +52,11 @@ body {
 }
 
 .nav ul li:last-child {
-    padding: 0 0 0 10px;
+    padding: 0;
 }
 
 .nav ul li {
-    font-size: 1.1em;
+    font-size: 1em;
     display: inline;
     padding: 0 10px;
     margin: 0 10px;
@@ -99,7 +99,7 @@ h1 {
     font-family: 'Open Sans', sans-serif;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
