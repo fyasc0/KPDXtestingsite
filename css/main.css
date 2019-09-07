@@ -475,3 +475,7 @@ social {
     width: 20%;
     word-wrap: break-word;
 }
+
+#questions img {
+    width: 58px;
+}
