@@ -42,7 +42,7 @@ body {
 
 .nav ul, footer ul {
     list-style: none;
-    padding: 0 15%;
+    padding: 0 0 0 15%;
 }
 
 .nav ul li:first-child { 
@@ -52,7 +52,7 @@ body {
 }
 
 .nav ul li:last-child {
-    padding: 0 0 0 0.5%;
+    padding: 0 15% 0 0;
 }
 
 .nav ul li {
