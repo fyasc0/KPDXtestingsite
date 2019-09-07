@@ -23,6 +23,11 @@ $(window).bind("load", function() {
     });
     });
 
+$(window).scroll(function(){
+    $(".arrow").css("opacity", 1 - $(window).scrollTop() / 250); 
+  //250 is fade pixels
+  });
+
 $(function() {
     var header = $(".nav");
   
