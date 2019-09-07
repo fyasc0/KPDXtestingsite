@@ -338,8 +338,6 @@ i {
 
 .about p {
     text-align: center;
-    width: 28%;
-    padding: 1% 15%;
     overflow: hidden;
 }
 
@@ -387,13 +385,14 @@ i {
 
 section {
     display: flex;
+    padding: 0 15%;
     justify-content: center;
 }
 
 social {
     text-align: center;
     padding: 20px;
-    width: 28%;
+    width: 30%;
 }
 
 .calendar {
