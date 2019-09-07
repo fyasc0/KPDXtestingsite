@@ -468,6 +468,11 @@ social {
     width: 55%;
 }
 
+#disclaimer p {
+    text-align: left;
+    font-size: 0.6em;
+}
+
 #questions {
     text-align: center;
     float: right;
