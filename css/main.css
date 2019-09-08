@@ -540,6 +540,14 @@ block {
     width: 55%;
 }
 
+@media only screen and (max-width: 800px) {
+    #disclaimer {
+        float: center;
+        max-width: 98%;
+        max-height: auto;
+    }
+}
+
 #disclaimer p {
     text-align: left;
     font-size: 0.7em;
@@ -558,4 +566,12 @@ block {
     display: inline;
     float: right;
     padding: 0 0 0 10px;
+}
+
+@media only screen and (max-width: 800px) {
+    #disclaimer {
+        float: center;
+        max-width: 98%;
+        max-height: auto;
+    }
 }
