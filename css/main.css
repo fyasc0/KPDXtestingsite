@@ -144,6 +144,12 @@ footer {
     justify-content: space-between;
 }
 
+@media only screen and (max-width: 800px) {
+    footer {
+        display: block;
+    }
+}
+
 .secret {
     opacity: 0;
     position: relative;
@@ -416,7 +422,7 @@ i {
 
 @media only screen and (max-width: 800px) {
     .contact img {
-        max-width: 70%;
+        max-width: 90%;
         max-height: auto;
     }
 }
