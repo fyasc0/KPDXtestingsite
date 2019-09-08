@@ -416,6 +416,7 @@ block {
 .calendar .calscale {
     position: relative;
     width: 63%;
+    height: 190px;
     padding-bottom: 63%;
     margin: auto;
     height: 0;
