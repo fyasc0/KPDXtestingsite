@@ -352,8 +352,7 @@ i {
     margin-left: auto;
     margin-right: auto;
     padding: 0;
-    width: 876px;
-    height: 284px;
+    width: 20vw;
     max-width: 90%;
 }
 
@@ -376,7 +375,7 @@ i {
 }
 
 .contact img {
-    width: 25%;
+    width: 20vw;
     text-align: center;
 }
 
@@ -440,8 +439,7 @@ block {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 179px;
-    height: 179px;
+    width: 20vw;
     max-width: 95%;
 }
 
