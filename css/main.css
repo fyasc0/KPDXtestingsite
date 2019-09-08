@@ -367,8 +367,9 @@ i {
 }
 
 .contact {
-    idth: 100%;
+    width: 100%;
     height: auto;
+    margin: 1% 15% 1% 15%;
     position: relative;
     left: 0px;
     background-color: #1f1f1f;
