@@ -351,6 +351,7 @@ i {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50%;
     padding: 0;
     width: 20vw;
     max-width: 90%;
@@ -391,7 +392,7 @@ section {
 block {
     text-align: center;
     padding: 20px;
-    width: 30%;
+    width: 50%;
 }
 
 .calendar {
