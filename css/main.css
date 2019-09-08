@@ -580,7 +580,6 @@ block {
     #questions {
         text-align: center;
         float: center;
-        margin: 0 auto;
         width: 50%;
     }
 }
