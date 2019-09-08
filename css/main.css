@@ -459,6 +459,12 @@ block {
     text-align: center;
 }
 
+@media only screen and (max-width: 800px) {
+    .calendar h1 {
+        font-size: 1.2em;
+    }
+}
+
 .calendar .calscale {
     position: relative;
     height: 190px;
