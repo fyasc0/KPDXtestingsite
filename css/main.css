@@ -569,7 +569,7 @@ block {
 }
 
 @media only screen and (max-width: 800px) {
-    #disclaimer {
+    #questions {
         float: center;
         max-width: 98%;
         max-height: auto;
