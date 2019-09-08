@@ -415,8 +415,8 @@ block {
 
 .calendar .calscale {
     position: relative;
-    width: 63%;
     height: 190px;
+    text-align: center;
     padding-bottom: 63%;
     margin: auto;
 }
@@ -430,6 +430,7 @@ block {
 
 .calendar .calscale iframe {
     position: absolute;
+    width: 60%;
     left: 0;
     padding: 1%;
 }
