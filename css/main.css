@@ -348,6 +348,13 @@ i {
 }
 
 @media only screen and (max-width: 800px) {
+    .about h1 {
+        padding: 1%;
+        font-size: 1.2em;
+    }
+}
+
+@media only screen and (max-width: 800px) {
     .about p {
         padding: 1%;
         font-size: 1em;
@@ -387,6 +394,12 @@ i {
 }
 
 @media only screen and (max-width: 800px) {
+    .contact h1 {
+        font-size: 1.2em;
+    }
+}
+
+@media only screen and (max-width: 800px) {
     .contact p {
         font-size: 1em;
     }
@@ -399,6 +412,13 @@ i {
     padding: 0;
     width: 7%;
     max-width: 90%;
+}
+
+@media only screen and (max-width: 800px) {
+    .contact img {
+        max-width: 70%;
+        max-height: auto;
+    }
 }
 
 .contact h1 {
@@ -486,9 +506,23 @@ block {
 }
 
 @media only screen and (max-width: 800px) {
+    .conduct h1 {
+        padding: 1%;
+        font-size: 1.2em;
+    }
+}
+
+@media only screen and (max-width: 800px) {
     .conduct p {
         padding: 1%;
         font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .conduct img {
+        max-width: 70%;
+        max-height: auto;
     }
 }
     
