@@ -415,7 +415,7 @@ block {
 .calendar .calscale {
     position: relative;
     height: 190px;
-    margin: 0 auto;
+    margin: auto;
     padding-bottom: 1%;
 }
 
@@ -429,7 +429,6 @@ block {
     position: absolute;
     display: block;
     text-align: center;
-    width: 50%;
 }
 
 .conduct {
