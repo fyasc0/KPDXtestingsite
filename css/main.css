@@ -372,6 +372,7 @@ i {
     position: relative;
     left: 0px;
     word-wrap: break-word;
+    background-color: #1f1f1f
 }
 
 .contact img {
@@ -389,7 +390,7 @@ section {
     justify-content: center;
 }
 
-social {
+block {
     text-align: center;
     padding: 20px;
     width: 45%;
