@@ -418,8 +418,6 @@ block {
     height: 190px;
     text-align: center;
     padding-bottom: 1%;
-    margin-left: 50%;
-    marggin-right: 50%;
 }
 
 @media only screen and (max-width: 800px) {
