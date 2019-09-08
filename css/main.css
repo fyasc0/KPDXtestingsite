@@ -414,6 +414,7 @@ section {
 @media only screen and (max-width: 800px) {
     section {
         padding: 0 1%;
+        display: block;
     }
 }
 
