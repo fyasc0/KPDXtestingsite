@@ -411,6 +411,7 @@ block {
     left: 0px;
     margin-bottom: 1%;
     text-align: center;
+    margin: auto;
 }
 
 .calendar .calscale {
