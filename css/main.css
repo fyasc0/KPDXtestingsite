@@ -430,7 +430,7 @@ block {
     display: block;
     text-align: center;
     width: 50%;
-    margin: auto;
+    padding: 50%;
 }
 
 .conduct {
