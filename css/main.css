@@ -543,7 +543,7 @@ block {
 
 @media only screen and (max-width: 800px) {
     #disclaimer {
-        float: center;
+        margin: 0 auto;
         width: 50%;
     }
 }
@@ -570,7 +570,7 @@ block {
 
 @media only screen and (max-width: 800px) {
     #questions {
-        float: center;
+        margin: 0 auto;
         width: 50%;
     }
 }
