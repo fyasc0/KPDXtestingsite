@@ -426,9 +426,10 @@ block {
 }
 
 .calendar .calscale iframe {
-    position: absolute;
+    position: relative;
     display: block;
     text-align: center;
+    margin: auto;
 }
 
 .conduct {
