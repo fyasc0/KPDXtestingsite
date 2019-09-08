@@ -442,7 +442,6 @@ block {
 @media only screen and (max-width: 800px) {
     .calendar .calscale {
         width: 98%;
-        height: auto;
     }
 }
 
@@ -451,6 +450,12 @@ block {
     display: block;
     text-align: center;
     margin: auto;
+}
+
+@media only screen and (max-width: 800px) {
+    .calendar .calscale iframe {
+        width: 90%;
+    }
 }
 
 .conduct {
