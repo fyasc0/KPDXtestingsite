@@ -344,6 +344,7 @@ i {
 @media only screen and (max-width: 800px) {
     .about p {
         padding: 1%;
+        font-size: 1em;
     }
 }
 
@@ -379,6 +380,12 @@ i {
     overflow: hidden;
 }
 
+@media only screen and (max-width: 800px) {
+    .contact p {
+        font-size: 1em;
+    }
+}
+
 .contact img {
     display: block;
     margin-left: auto;
@@ -396,6 +403,12 @@ section {
     display: flex;
     padding: 0 15%;
     justify-content: center;
+}
+
+@media only screen and (max-width: 800px) {
+    section {
+        padding: 0 1%;
+    }
 }
 
 block {
@@ -462,6 +475,7 @@ block {
 @media only screen and (max-width: 800px) {
     .conduct p {
         padding: 1%;
+        font-size: 1em;
     }
 }
     
