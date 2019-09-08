@@ -418,7 +418,8 @@ block {
     height: 190px;
     text-align: center;
     padding-bottom: 1%;
-    margin: auto;
+    margin-left: 50%;
+    marggin-right: 50%;
 }
 
 @media only screen and (max-width: 800px) {
@@ -429,6 +430,8 @@ block {
 
 .calendar .calscale iframe {
     position: absolute;
+    margin: auto;
+    text-align: center;
     width: 60%;
     left: 0;
     padding: 1%;
@@ -477,7 +480,7 @@ block {
 
 #disclaimer p {
     text-align: left;
-    font-size: 0.6em;
+    font-size: 0.7em;
 }
 
 #questions {
