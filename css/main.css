@@ -544,7 +544,7 @@ block {
 @media only screen and (max-width: 800px) {
     #disclaimer {
         float: center;
-        width: 98%;
+        width: 50%;
     }
 }
 
@@ -571,6 +571,6 @@ block {
 @media only screen and (max-width: 800px) {
     #questions {
         float: center;
-        width: 98%;
+        width: 50%;
     }
 }
