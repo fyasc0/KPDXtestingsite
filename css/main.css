@@ -588,6 +588,6 @@ block {
     #questions img {
         text-align: center;
         float: center;
-        width: 50%;
+        width: 32px;
     }
 }
