@@ -60,7 +60,7 @@ body {
 }
 
 .nav ul li:last-child {
-    padding: 0;
+    padding: 0 0 0 0.5%;
 }
 
 .nav ul li {
@@ -430,6 +430,7 @@ i {
 
 .contact h1 {
     text-align: center;
+    text-shadow: none;
 }
 
 section {
