@@ -392,8 +392,7 @@ i {
     position: relative;
     height: auto;
     overflow: hidden;
-    opacity: 30%;
-    background-color: #3E563C;
+    background-color: rgba(62,86,60,0.85);
 }
 
 .contact p {
